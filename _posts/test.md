@@ -1,3 +1,4 @@
+------------
 layout:     post
 title:      测试
 subtitle:   发文章测试
@@ -8,5 +9,6 @@ catalog: 	 true
 tags:
     - iOS
     - 定时器
+------------------
 
 
