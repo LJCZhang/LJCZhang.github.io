@@ -1,6 +1,9 @@
 
 
-以下是柏荧的修改教程，存放借鉴学习~
+以下是柏荧的配置教程，存放借鉴学习~
+
+
+
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
 [![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
